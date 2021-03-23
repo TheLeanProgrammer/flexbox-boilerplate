@@ -1,0 +1,45 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #ff7272;
+    min-height: 90vh;
+    overflow-x: hidden;
+    font-family: 'Josefin Sans';
+    font-size: 22px;
+    color: #fff;
+    padding: 40px;
+}
+
+.header > h1,p {
+    margin: 25px 0 25px;
+    text-align: center;
+}
+
+.head-container {
+    border: 1px dotted #fff;
+    padding: 20px 10px 20px 10px;
+    margin: 40px 0 40px;
+}
+
+.flex-container {
+    border: 1px solid #fff;
+    padding: 10px;
+    display: flex;
+}
+
+.flex-container > * {
+    border: 1px solid #fff;
+    background-color: rgba(255, 255, 255, 0.24);
+    padding: 20px 10px 20px 10px;
+    margin: 5px;
+}
+
+.flex-container > *:hover {
+    background-color: rgba(255, 255, 255, 0.44);
+}
+
+.text-center {
+    text-align: center;
+}

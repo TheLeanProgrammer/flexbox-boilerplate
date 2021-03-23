@@ -1,0 +1,9 @@
+body {
+    background-color: #fe6845;
+}
+
+.flex-container {
+    flex-direction: row;
+    height: 240px;
+    align-items: flex-start;
+}

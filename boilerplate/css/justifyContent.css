@@ -1,0 +1,7 @@
+body {
+    background-color: #d63447;
+}
+
+.flex-container {
+    flex-direction: row;
+}

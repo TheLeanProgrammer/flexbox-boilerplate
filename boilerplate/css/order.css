@@ -1,0 +1,7 @@
+body {
+    background-color: #617be3;
+}
+
+.flex-container {
+    flex-flow: row wrap;
+}

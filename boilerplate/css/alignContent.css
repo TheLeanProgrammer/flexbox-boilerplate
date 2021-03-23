@@ -1,0 +1,10 @@
+body {
+    background-color: #50d890;
+}
+
+.flex-container {
+    height: 240px;
+    flex-direction: row;
+    align-items: flex-start;
+    flex-wrap: wrap;
+}

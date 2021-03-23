@@ -1,0 +1,8 @@
+body {
+    background-color: #1A2849;
+}
+
+.flex-container {
+    flex-direction: row;
+    justify-content: flex-start;
+}
